@@ -69,6 +69,8 @@
 ---
 
 ## 🚀 GitHub Action Badge  
+
 <p align="center">
-  <img src="https://github.com/bangzyy/bangzyy/actions/workflows/main.yml/badge.svg" alt="GitHub Action Status" />
+  <img src="https://github.com/bangzyy/ecommercezy/actions/workflows/laravel-ci.yml/badge.svg" alt="Laravel CI Status" />
 </p>
+
