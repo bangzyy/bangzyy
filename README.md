@@ -26,7 +26,17 @@
 ![Adzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangzyy&show_icons=true&theme=gruvbox) -->
 <!-- # 💫 About Me:
 Hello Everyone!! I'm Adzy Gustry 👋 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bangzyy/bangzyy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bangzyy/bangzyy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bangzyy/bangzyy/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/bangzyy/bangzyy/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zavieraadd_zyy23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adzygustry2005@gmail.com) 
